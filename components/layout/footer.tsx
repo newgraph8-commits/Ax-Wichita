@@ -95,6 +95,15 @@ export function Footer() {
           </div>
         </div>
       </div>
+
+      {/* Copyright Section */}
+      <div className="border-t border-white/10">
+        <div className="container mx-auto py-6" style={{ paddingInline: "clamp(1rem, 4vw, 3rem)" }}>
+          <p className="text-white/80 text-sm text-center">
+            Copyright © 2026 Ax Cobb, LLC. All Rights Reserved.
+          </p>
+        </div>
+      </div>
     </footer>
   )
 }
