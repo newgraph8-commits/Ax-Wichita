@@ -42,7 +42,7 @@ export default function MarketingPage() {
               represent only the starting point.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-              Ax Cobb develops advanced, adaptive SEO frameworks that align with audience behavior, expand visibility,
+              Ax Wichita develops advanced, adaptive SEO frameworks that align with audience behavior, expand visibility,
               and strengthen an organization's digital presence across key channels.
             </p>
 
@@ -84,7 +84,7 @@ export default function MarketingPage() {
                   <div>
                     <h2 className="text-3xl font-bold text-primary mb-4">SEARCH ENGINE OPTIMIZATION</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-6">
-                      Ax Cobb brings the technical depth and strategic foresight needed to expand, refine, and dominate
+                      Ax Wichita brings the technical depth and strategic foresight needed to expand, refine, and dominate
                       your target audience segments.
                     </p>
 
@@ -123,7 +123,7 @@ export default function MarketingPage() {
 
                     <h3 className="text-xl font-bold text-primary mb-3">Localized SEO</h3>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
-                      Ax Cobb treats local visibility as a growth accelerator. We uncover the keywords, visuals, and
+                      Ax Wichita treats local visibility as a growth accelerator. We uncover the keywords, visuals, and
                       content angles that lead to community dominance—helping your business carve out a durable,
                       recognized niche in any competitive region.
                     </p>
@@ -167,7 +167,7 @@ export default function MarketingPage() {
                       interactions—commanding around 20% of global digital ad market share.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
-                      Ax Cobb understands exactly why the platform performs at that scale.
+                      Ax Wichita understands exactly why the platform performs at that scale.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full">
                       Our creative engineers build scalable, high-impact campaigns that transform attention into action.
@@ -180,7 +180,7 @@ export default function MarketingPage() {
                     <h2 className="text-3xl font-bold text-primary mb-4">Google Pay-Per-Click</h2>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">
                       When Facebook advertising is integrated with paid search, overall performance increases
-                      substantially. This multi-channel dynamic has enabled Ax Cobb clients to achieve stronger click
+                      substantially. This multi-channel dynamic has enabled Ax Wichita clients to achieve stronger click
                       through rate (CTR) results and expanded audience reach.
                     </p>
                     <p className="text-lg text-muted-foreground leading-relaxed w-full mb-4">

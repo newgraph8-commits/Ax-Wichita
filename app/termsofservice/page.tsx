@@ -23,7 +23,7 @@ export default function TermsOfServicePage() {
             <div className="prose prose-lg max-w-none space-y-8 text-gray-700 leading-relaxed">
               <section>
                 <p className="text-lg">
-                  Ax Cobb has rapidly positioned itself as a leading force in executive search, delivering focused service and exceptional opportunities to an elite portfolio of clients.
+                  Ax Wichita has rapidly positioned itself as a leading force in executive search, delivering focused service and exceptional opportunities to an elite portfolio of clients.
                 </p>
               </section>
 

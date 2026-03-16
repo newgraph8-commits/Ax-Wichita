@@ -148,7 +148,7 @@ export function CallbackForm() {
               <div className="relative aspect-video bg-muted rounded-sm overflow-hidden mb-6 shadow-xl">
                 <img
                   src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop"
-                  alt="Ax Cobb Insights"
+                  alt="Ax Wichita Insights"
                   className="object-cover w-full h-full hover:scale-105 transition-transform duration-700"
                 />
               </div>
@@ -158,7 +158,7 @@ export function CallbackForm() {
             <div className="space-y-6">
               <div className="w-full h-px bg-border/60" />
               <p className="text-muted-foreground leading-relaxed text-lg">
-                Ax Cobb delivers trusted expertise in the often overlooked work of building corporate teams. We support
+                Ax Wichita delivers trusted expertise in the often overlooked work of building corporate teams. We support
                 executive, director, and staff-level hiring across finance and accounting, IT services, sales,
                 marketing, manufacturing, engineering, human resources, corporate communications, community relations,
                 media relations, and administrative roles.

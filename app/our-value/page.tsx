@@ -12,7 +12,7 @@ export default function OurValuePage() {
       <main className="flex-grow">
         <PageHeader
           title="Our Value"
-          subtitle="Ax Cobb delivers transformative leadership solutions that drive organizational excellence and sustainable growth."
+          subtitle="Ax Wichita delivers transformative leadership solutions that drive organizational excellence and sustainable growth."
           backgroundImage="https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=2071&auto=format&fit=crop"
         />
 
@@ -25,7 +25,7 @@ export default function OurValuePage() {
                 </h2>
                 <div className="space-y-6 text-muted-foreground leading-relaxed">
                   <p>
-                    At Ax Cobb, we believe that executive search is not merely about filling a vacancy—it is about
+                    At Ax Wichita, we believe that executive search is not merely about filling a vacancy—it is about
                     securing the future of your organization. Our value proposition is rooted in a deep understanding of
                     market dynamics, organizational culture, and the evolving demands of leadership.
                   </p>

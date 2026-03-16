@@ -43,7 +43,7 @@ export function Logo({ light = false, className, iconOnly = false, onClick }: Lo
               light ? "text-white" : "text-primary",
             )}
           >
-            Ax Cobb
+            Ax Wichita
           </span>
           <div className={cn("h-[1px] w-full my-1", light ? "bg-white/30" : "bg-primary/20")} />
           <span

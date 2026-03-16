@@ -46,7 +46,7 @@ export default function PerformanceStructurePage() {
         <section className="py-24 bg-background">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center mb-20">
-              <h2 className="text-3xl md:text-4xl font-serif text-primary mb-6">The Ax Cobb Methodology</h2>
+              <h2 className="text-3xl md:text-4xl font-serif text-primary mb-6">The Ax Wichita Methodology</h2>
               <p className="text-muted-foreground leading-relaxed">
                 Our performance structure is built on the belief that executive search is a science as much as an art.
                 We apply rigorous process controls to ensure consistency, quality, and speed.

@@ -88,7 +88,7 @@ export default function BoardAssessmentToolsPage() {
                   <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                     At its core, the self-assessment process examines the influence and contribution of individual
                     directors—evaluating whether they promote innovation, transparency, and collaboration, while also
-                    upholding confidentiality and the integrity of board deliberations. To support this effort, Ax Cobb
+                    upholding confidentiality and the integrity of board deliberations. To support this effort, Ax Wichita
                     has conducted numerous evaluations for boards and companies across a wide range of industries,
                     drawing on peer reviews, independent analyses, and confidential internal perspectives to measure
                     overall group effectiveness.
