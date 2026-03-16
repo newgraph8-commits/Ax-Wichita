@@ -89,8 +89,8 @@ export default function PrivacyPolicyPage() {
                 <h3 className="text-xl font-semibold text-gray-900 mb-3 mt-6">3.2 Assistance</h3>
                 <p>
                   For support related to SMS messaging, contact us at:{" "}
-                  <a href="mailto:info@axcobb.com" className="text-[#22C55E] hover:underline">
-                    info@axcobb.com
+                  <a href="mailto:info@axwichita.com" className="text-[#22C55E] hover:underline">
+                    info@axwichita.com
                   </a>
                 </p>
 
@@ -131,8 +131,8 @@ export default function PrivacyPolicyPage() {
                 </ul>
                 <p className="mt-4">
                   To make a request, contact us at:{" "}
-                  <a href="mailto:info@axcobb.com" className="text-[#22C55E] hover:underline">
-                    info@axcobb.com
+                  <a href="mailto:info@axwichita.com" className="text-[#22C55E] hover:underline">
+                    info@axwichita.com
                   </a>
                 </p>
               </section>
@@ -168,8 +168,8 @@ export default function PrivacyPolicyPage() {
                   <p className="font-semibold">Ax Wichita Privacy Office</p>
                   <p>
                     Email:{" "}
-                    <a href="mailto:info@axcobb.com" className="text-[#22C55E] hover:underline">
-                      info@axcobb.com
+                    <a href="mailto:info@axwichita.com" className="text-[#22C55E] hover:underline">
+                      info@axwichita.com
                     </a>
                   </p>
                 </div>
