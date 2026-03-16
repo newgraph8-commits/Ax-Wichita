@@ -80,8 +80,8 @@ export default function PartnersPage() {
               <p className="text-lg text-muted-foreground leading-relaxed">
                 To integrate Ax Wichita's 12 AC system into your Human Resources framework or to enroll in the Ax Wichita
                 system application, please contact an Ax Wichita representative at:{" "}
-                <a href="mailto:info@axcobb.com" className="text-primary hover:underline font-semibold">
-                  info@axcobb.com
+                <a href="mailto:info@axwichita.com" className="text-primary hover:underline font-semibold">
+                  info@axwichita.com
                 </a>
               </p>
             </div>
