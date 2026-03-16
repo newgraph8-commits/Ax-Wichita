@@ -192,7 +192,7 @@ export default function MarketingPage() {
                       <br />
                       By integrating Facebook and Google PPC strategies, organizations can take advantage of a
                       particularly strong moment in the market to expand and strengthen their customer pipelines. Ax
-                      Cobb ensures that clients leverage this environment to its fullest potential.
+                      Wichita ensures that clients leverage this environment to its fullest potential.
                     </p>
                   </div>
 
@@ -217,7 +217,7 @@ export default function MarketingPage() {
                         <h4 className="text-lg font-semibold text-primary mb-2">(b) Monetization Strategy</h4>
                         <p className="text-lg text-muted-foreground leading-relaxed w-full">
                           Organizations looking to improve app performance across multiple user touchpoints rely on Ax
-                          Cobb for the technical capabilities and operational support required to launch effectively,
+                          Wichita for the technical capabilities and operational support required to launch effectively,
                           scale efficiently, and monetize successfully.
                         </p>
                       </div>
