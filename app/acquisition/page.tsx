@@ -31,7 +31,7 @@ export default function AcquisitionPage() {
                 Our methodology is built around outcomes. Each engagement is tailored to identify leaders who
                 demonstrate strong potential, effective communication and engagement skills, and the ability to unite
                 cross-functional teams behind shared objectives. This approach is reinforced by the guidance of Ax
-                Cobb's board, whose insight and discipline help ensure our work remains focused, precise, and aligned
+                Wichita's board, whose insight and discipline help ensure our work remains focused, precise, and aligned
                 with the needs of diverse industries.
               </p>
               <p className="leading-relaxed">
