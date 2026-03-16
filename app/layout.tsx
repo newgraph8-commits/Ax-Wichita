@@ -18,10 +18,10 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Ax Cobb",
+  title: "Ax Wichita",
   description:
-    "Ax Cobb delivers trusted expertise in executive search and talent acquisition. We support leadership hiring across finance, IT, sales, marketing, HR, and more.",
-  metadataBase: new URL("https://axcobb.com"),
+    "Ax Wichita delivers trusted expertise in executive search and talent acquisition. We support leadership hiring across finance, IT, sales, marketing, HR, and more.",
+  metadataBase: new URL("https://axwichita.com"),
   icons: {
     icon: [
       {
@@ -36,11 +36,11 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   openGraph: {
-    title: "Ax Cobb",
+    title: "Ax Wichita",
     description:
-      "Ax Cobb delivers trusted expertise in executive search and talent acquisition. We support leadership hiring across finance, IT, sales, marketing, HR, and more.",
-    siteName: "Ax Cobb",
-    url: "https://axcobb.com",
+      "Ax Wichita delivers trusted expertise in executive search and talent acquisition. We support leadership hiring across finance, IT, sales, marketing, HR, and more.",
+    siteName: "Ax Wichita",
+    url: "https://axwichita.com",
     type: "website",
     images: [
       {
@@ -51,9 +51,9 @@ export const metadata: Metadata = {
     ],
   },
   twitter: {
-    title: "Ax Cobb",
+    title: "Ax Wichita",
     description:
-      "Ax Cobb delivers trusted expertise in executive search and talent acquisition. We support leadership hiring across finance, IT, sales, marketing, HR, and more.",
+      "Ax Wichita delivers trusted expertise in executive search and talent acquisition. We support leadership hiring across finance, IT, sales, marketing, HR, and more.",
     card: "summary",
     images: [
       "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
@@ -68,7 +68,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-scroll-behavior="smooth">
       <head>
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="icon" href="/favicon.ico" sizes="any" />

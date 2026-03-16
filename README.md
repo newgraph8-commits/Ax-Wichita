@@ -1,4 +1,4 @@
-# Ax Cobb (AF)
+# Ax Wichita (AF)
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 

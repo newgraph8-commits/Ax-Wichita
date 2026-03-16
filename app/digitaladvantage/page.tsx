@@ -3,7 +3,7 @@ import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export const metadata = {
-  title: "Digital Advantage - Ax Cobb",
+  title: "Digital Advantage - Ax Wichita",
   description: "Proprietary tools and adaptive solutions for the digital era",
 }
 
@@ -23,7 +23,7 @@ export default function DigitalAdvantagePage() {
                 becomes a catalyst for long-term progress — shaping the strategies that drive sustained advancement.
               </p>
               <p className="leading-relaxed">
-                Ax Cobb's continued growth in the executive search and talent solutions space reflects this reality. Our
+                Ax Wichita's continued growth in the executive search and talent solutions space reflects this reality. Our
                 commitment to refinement informs both how we engage exceptional clients and how we cultivate highly
                 focused, high-performing talent.
               </p>

@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Partners - Ax Cobb",
+  title: "Partners - Ax Wichita",
   description: "Our trusted partners in executive recruitment and talent solutions",
 }
 
@@ -75,13 +75,13 @@ export default function PartnersPage() {
             <div className="max-w-4xl">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 Case studies featuring real-world examples have demonstrated the effectiveness, speed, adaptability, and
-                overall success of Ax Cobb's system.
+                overall success of Ax Wichita's system.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                To integrate Ax Cobb's 12 AC system into your Human Resources framework or to enroll in the Ax Cobb
-                system application, please contact an Ax Cobb representative at:{" "}
-                <a href="mailto:info@axcobb.com" className="text-primary hover:underline font-semibold">
-                  info@axcobb.com
+                To integrate Ax Wichita's 12 AC system into your Human Resources framework or to enroll in the Ax Wichita
+                system application, please contact an Ax Wichita representative at:{" "}
+                <a href="mailto:info@axwichita.com" className="text-primary hover:underline font-semibold">
+                  info@axwichita.com
                 </a>
               </p>
             </div>
