@@ -57,8 +57,8 @@ export default function TermsOfServicePage() {
                 <h2 className="text-2xl font-bold text-primary mb-4">Support</h2>
                 <p>
                   If you encounter any issues with our messaging system, please contact us directly at{" "}
-                  <a href="mailto:info@axcobb.com" className="text-[#22C55E] hover:underline">
-                    info@axcobb.com
+                  <a href="mailto:info@axwichita.com" className="text-[#22C55E] hover:underline">
+                    info@axwichita.com
                   </a>
                   .
                 </p>
