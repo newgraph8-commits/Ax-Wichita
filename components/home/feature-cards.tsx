@@ -9,7 +9,7 @@ const features = [
     title: "THE AX WICHITA FRAMEWORK",
     description:
       "In today's rapidly evolving digital landscape, where organizations are expected to make swift, data-driven decisions and convert complex information into sustainable strategic direction, Ax Wichita has emerged as a leading force in the executive search industry.",
-    image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop",
+    image: "/images/ax-wichita-airplane.jpg",
   },
   {
     title: "PERFORMANCE FOCUSED",
